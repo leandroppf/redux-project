@@ -29,6 +29,8 @@
       "prettier"
   ],
   "rules": {
+    "no-param-reassign":"off",
+    "no-plusplus": "off",
     "consistent-return": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "react-hooks/rules-of-hooks": "error",
